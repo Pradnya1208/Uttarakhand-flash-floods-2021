@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20204.21.0217.1203                               -->
+<mapsource inline='true' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <MapAttribution2 />
+    <MapboxVectorBuiltInAndUserStyles />
+  </document-format-change-manifest>
+  <connection api-key='pk.eyJ1IjoicHJhZG55YTAxMjYiLCJhIjoiY2trdjdlOXM0MTVvdjMwcGIzbXR3eXl3bCJ9.afFi3oucz6o2hHclCzpepg' class='CustomMapbox' description='' full-url='https://api.mapbox.com/styles/v1/pradnya0126/ckmalaifh236j17ql39w4ouz9.html?title=true&amp;access_token=pk.eyJ1IjoicHJhZG55YTAxMjYiLCJhIjoiY2trdjdlOXM0MTVvdjMwcGIzbXR3eXl3bCJ9.afFi3oucz6o2hHclCzpepg#11.7/30.394587/79.670305/198' inline='true' offline='' port='443' server='https://api.mapbox.com' url='styles/v1' url-format='/styles/v1/pradnya0126/{L}/tiles/{Z}/{X}/{Y}{D}?access_token=pk.eyJ1IjoicHJhZG55YTAxMjYiLCJhIjoiY2trdjdlOXM0MTVvdjMwcGIzbXR3eXl3bCJ9.afFi3oucz6o2hHclCzpepg' username='pradnya0126' wait-tile-color='#dddddd' />
+  <languages />
+  <layers>
+    <layer display-name='Satellite Streets' name='ckmalaifh236j17ql39w4ouz9' show-ui='true' type='features' />
+  </layers>
+  <properties />
+  <map-styles>
+    <map-style display-name='Satellite_terrain' name='mapbox://styles/pradnya0126/ckmalaifh236j17ql39w4ouz9' wait-tile-color='#dddddd'>
+      <map-layer-style name='Satellite Streets' request-string='ckmalaifh236j17ql39w4ouz9' />
+    </map-style>
+  </map-styles>
+  <mapsource-defaults version='18.1'>
+    <style>
+      <style-rule element='map'>
+        <format attr='map-style' value='mapbox://styles/pradnya0126/ckmalaifh236j17ql39w4ouz9' />
+        <format attr='washout' value='0' />
+      </style-rule>
+    </style>
+  </mapsource-defaults>
+  <map-attribution copyright-string='© %1 Mapbox' copyright-url='https://mapbox.com/about/maps' short-copyright-string='© Mapbox' />
+  <map-attribution2 copyright-string='© OpenStreetMap' copyright-url='https://mapbox.com/about/maps' short-copyright-string='© OSM' />
+</mapsource>
